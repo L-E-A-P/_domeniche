@@ -37,4 +37,4 @@ done
 
 echo
 echo "Fatto. Incolla nella pagina:"
-echo "{% include gallery path=\"dapdi/img/$EVENTO/$SIGLA/\" %}"
+echo "{% include gallery path=\"domeniche/img/$EVENTO/$SIGLA/\" %}"

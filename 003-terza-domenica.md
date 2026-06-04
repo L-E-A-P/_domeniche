@@ -21,4 +21,4 @@ Compositore Francesco Vitucci.
   Svolge regolarmente attività di docenza di Tecnologie Musicali, presso Scuole Secondarie di Secondo Grado.
   Attualmente è docente di Composizione presso il Conservatorio di Musica "Gioacchino Rossini" di Pesaro.
 
-{% include gallery path="dapdi/img/2024-03-24-dapdi-iii/ac/" %}
+{% include gallery path="domeniche/img/2024-03-24-dapdi-iii/ac/" %}

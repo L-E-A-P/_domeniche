@@ -1,4 +1,4 @@
-# Convenzione immagini gallerie (repo `_dapdi`)
+# Convenzione immagini gallerie (repo `_domeniche`)
 
 Le immagini delle gallerie sono organizzate **sempre** con questa struttura, una cartella per **fotografo** identificato dalla sua sigla:
 
@@ -28,7 +28,7 @@ Genera `img/<evento>/<sigla>/{org,edit,thumb}` e stampa la riga `{% include gall
 
 ## Pagine e URL
 Le pagine markdown stanno alla **radice** del repo (`001-prima-domenica.md`, ...): URL `/domeniche/<slug>/`.
-Il motore del tema (`so-leap-theme/_includes/gallery`) prende le miniature da `thumb/` e le immagini complete del lightbox da `edit/`. Le immagini di questo repo vivono nella **collezione** (`site.collections[].files`); path include `dapdi/img/...`.
+Il motore del tema (`so-leap-theme/_includes/gallery`) prende le miniature da `thumb/` e le immagini complete del lightbox da `edit/`. Le immagini di questo repo vivono nella **collezione** (`site.collections[].files`); path include `domeniche/img/...`.
 
 ## TODO futuro
 Watermark automatico (logo + nome fotografo) sulle immagini in `edit/`, rigenerandole da `org/`.
