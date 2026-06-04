@@ -28,9 +28,10 @@ find "$SRC" -maxdepth 1 -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '
     cp "$f" "$DEST/org/$name"
     # edit: altezza 1080
     sips --resampleHeight 1080 "$DEST/org/$name" --out "$DEST/edit/$name" >/dev/null
-    # thumb: 400x300 cover-crop (resample a h=300 -> w>=400 per landscape, poi crop centrato)
-    sips --resampleHeight 300 "$DEST/edit/$name" --out "$DEST/thumb/$name" >/dev/null
-    sips -c 300 400 "$DEST/thumb/$name" --out "$DEST/thumb/$name" >/dev/null
+    # thumb: solo ridimensionamento (lato lungo max 400), NESSUN crop.
+    # La griglia del tema croppa da sola (aspect-ratio:1 + object-fit:cover),
+    # quindi non serve ritagliare qui: si evita anche ogni padding.
+    sips --resampleHeightWidthMax 400 "$DEST/edit/$name" --out "$DEST/thumb/$name" >/dev/null
     echo "  $name"
 done
 
