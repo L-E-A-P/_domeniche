@@ -20,3 +20,5 @@ Compositore Francesco Vitucci.
   Da novembre 2020 è il responsabile del seminario di Analisi Musicale per gli studenti del Master of Arts in Direzione d’Orchestra, presso il Conservatorio della Svizzera Italiana. Nell’aprile 2021, presso la medesima istituzione, collabora con Nadir Vassena, come assistente al corso di Composizione Algoritmica, nell’ambito del corso di Composizione.
   Svolge regolarmente attività di docenza di Tecnologie Musicali, presso Scuole Secondarie di Secondo Grado.
   Attualmente è docente di Composizione presso il Conservatorio di Musica "Gioacchino Rossini" di Pesaro.
+
+{% include gallery path="dapdi/img/2024-03-24-dapdi-iii/ac/" %}
