@@ -6,10 +6,10 @@ image:
   caption:
 ---
 
-Domenica ventuno aprile duemilaventiquattro dalle ore otto alle ore diciassette
-si terrà il quarto appuntamento del percorso di scrittura creativa condotto dal
-Compositore Francesco Vitucci.
+Ventuno aprile duemilaventiquattro. I progetti sono ormai avviati.
 
 <!--more-->
+
+Si lavora alla sordina elettroacustica per il violino di Silvio; continua la sperimentazione sugli altri strumenti.
 
 {% include gallery path="domeniche/img/2024-04-21-dapdi-iv/ac/" %}

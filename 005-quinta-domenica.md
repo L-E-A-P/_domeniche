@@ -6,10 +6,10 @@ image:
   caption:
 ---
 
-Domenica due giugno duemilaventiquattro dalle ore otto alle ore diciassette
-si terrà il quinto appuntamento del percorso di scrittura creativa condotto dal
-Compositore Francesco Vitucci.
+Due giugno duemilaventiquattro. Il Trilobo trova la sua struttura portante e i cablaggi definitivi.
 
 <!--more-->
+
+Si festeggia il compleanno di Francesco Ferracuti.
 
 {% include gallery path="domeniche/img/2024-06-02-dapdi-v/ac/" %}
