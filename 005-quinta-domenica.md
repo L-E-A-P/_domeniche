@@ -12,4 +12,6 @@ Due giugno duemilaventiquattro. Il Trilobo trova la sua struttura portante e i c
 
 Si festeggia il compleanno di Francesco Ferracuti.
 
+{% include gallery path="domeniche/img/2024-06-02-dapdi-v/gs/" %}
+
 {% include gallery path="domeniche/img/2024-06-02-dapdi-v/ac/" %}
