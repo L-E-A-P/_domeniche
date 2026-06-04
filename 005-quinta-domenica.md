@@ -6,7 +6,7 @@ image:
   caption:
 ---
 
-Domenica ventuno aprile duemilaventiquattro dalle ore otto alle ore diciassette
+Domenica due giugno duemilaventiquattro dalle ore otto alle ore diciassette
 si terrà il quarto appuntamento del percorso di scrittura creativa condotto dal
 Compositore Francesco Vitucci.
 
